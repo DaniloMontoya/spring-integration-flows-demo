@@ -21,7 +21,6 @@ import org.springframework.web.client.RestTemplate;
  * @version Id: <b>spring-integration-flows</b> 13/09/2023, 10:35 AM
  **/
 @Slf4j
-@EnableIntegration
 @Component
 @RequiredArgsConstructor
 public class HttpOutboundFlowWithPoller {

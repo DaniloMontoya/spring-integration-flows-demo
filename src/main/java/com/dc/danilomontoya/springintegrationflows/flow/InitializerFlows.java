@@ -14,7 +14,6 @@ import org.springframework.stereotype.Component;
  * @version Id: <b>spring-integration-flows</b> 13/09/2023, 10:43 AM
  **/
 @Slf4j
-@EnableIntegration
 @Component
 @RequiredArgsConstructor
 public class InitializerFlows {
